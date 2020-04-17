@@ -1,4 +1,4 @@
-baseURL = "https://myblog.netlify.com"
+baseURL = "https://myblogpem.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
